@@ -20,6 +20,8 @@ Christmas TV Episodes
 ==================
 - [x] Friends S09 E10 The One With Christmas In Tulsa
 - [x] Full House S02 E09 Our First Christmas Show
+- [x] Growing Pains S01 E12 A Christmas Story
+- [x] Growing Pains S02 E09 The Kid
 
 
 Notes:
