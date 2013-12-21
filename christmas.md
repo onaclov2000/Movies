@@ -1,5 +1,6 @@
 Christmas Movies
 ==================
+- Elf
 - Charlie Brown Christmas
 - It's a Wonderful Life
 - Love Actually
