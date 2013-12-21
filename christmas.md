@@ -18,14 +18,30 @@ Christmas Movies
 
 Christmas TV Episodes
 ==================
-- [x] Friends S09 E10 The One With Christmas In Tulsa
-- [x] Full House S02 E09 Our First Christmas Show
-- [x]            S06 E12 A Very Tanner Christmas
-- [x]            S08 E11 Arrest Ye Merry Gentleman
-- [x] Growing Pains S01 E12 A Christmas Story
-- [x] Growing Pains S02 E09 The Kid
-- [x] The Brady Bunch S01 E12 The Voice Of Christmas
-- [x] Perfect Strangers S02 E17 A Christmas Story
+
+Friends 
+-----------------
+- [x] The One With Christmas In Tulsa **(S09 E10)**
+
+ 
+Full House
+-----------------
+- [x] S02 E09 Our First Christmas Show
+- [x] S06 E12 A Very Tanner Christmas
+- [x] S08 E11 Arrest Ye Merry Gentleman
+
+Growing Pains
+-----------------
+- [x] S01 E12 A Christmas Story
+- [x] S02 E09 The Kid
+
+The Brady Bunch 
+-----------------
+- [x] S01 E12 The Voice Of Christmas
+
+Perfect Strangers
+-----------------
+- [x] S02 E17 A Christmas Story
 
 
 Notes:
