@@ -18,7 +18,8 @@ Christmas Movies
 
 Christmas TV Episodes
 ==================
-- Friends S09 E10 The One With Christmas In Tulsa
+- [x] Friends S09 E10 The One With Christmas In Tulsa
+- [x] Full House S02 E09 Our First Christmas Show
 
 
 Notes:
