@@ -10,6 +10,7 @@ Christmas Movies
 - [x] Home Alone 2: Lost In New York
 - [x] Rudolph, The Red Nosed Reindeer
 - [x] Eight Crazy Nights
+- [x] Die Hard
 - [ ] A Christmas Story
 - [ ] Nightmare Before Christmas
 - [ ] National Lampoons Christmas Vacation
@@ -24,6 +25,7 @@ Friends
 - [x] The One With Phoebes Dad **(S02 E09)**
 - [x] The One Where Rachel Quits **(S03 E10)**
 - [x] The One With The Holiday Armidillo **(S07 E10)**
+- [x] The One With Ross's Step Forward **(S08 E11)**
 - [x] The One With Christmas In Tulsa **(S09 E10)**
 
 Full House
