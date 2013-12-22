@@ -21,34 +21,29 @@ Christmas TV Episodes
 ==================
 
 ### Friends ###
-- [x] The One With Phoebes Dad **(S02 E09)**
-- [x] The One Where Rachel Quits **(S03 E10)**
+- [x] The One With Phoebes Dad           **(S02 E09)**
+- [x] The One Where Rachel Quits         **(S03 E10)**
 - [x] The One With The Holiday Armidillo **(S07 E10)**
-- [x] The One With Ross's Step Forward **(S08 E11)**
-- [x] The One With Christmas In Tulsa **(S09 E10)**
+- [x] The One With Ross's Step Forward   **(S08 E11)**
+- [x] The One With Christmas In Tulsa    **(S09 E10)**
 
-Full House
------------------
-- [x] Our First Christmas Show **(S02 E09)**
-- [x] A Very Tanner Christmas **(S06 E12)**
-- [x] Arrest Ye Merry Gentleman **(S08 E11)**
+### Full House ###
+- [x] Our First Christmas Show           **(S02 E09)**
+- [x] A Very Tanner Christmas            **(S06 E12)**
+- [x] Arrest Ye Merry Gentleman          **(S08 E11)**
 
-Growing Pains
------------------
-- [x] A Christmas Story **(S01 E12)**
-- [x] The Kid **(S02 E09)**
+### Growing Pains ###
+- [x] A Christmas Story                  **(S01 E12)**
+- [x] The Kid                            **(S02 E09)**
 
-The Brady Bunch 
------------------
-- [x] The Voice Of Christmas **(S01 E12)**
+### The Brady Bunch ###
+- [x] The Voice Of Christmas             **(S01 E12)**
 
-Perfect Strangers
------------------
-- [x] A Christmas Story **(S02 E17)**
+### Perfect Strangers ###
+- [x] A Christmas Story                  **(S02 E17)**
 
-Who's The Boss
------------------
-- [x] Requiem **(S01 E13)**
+### Who's The Boss ###
+- [x] Requiem                            **(S01 E13)**
 
 
 Notes:
