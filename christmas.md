@@ -20,7 +20,7 @@ Christmas Movies
 Christmas TV Episodes
 ==================
 
-## Friends ##
+### Friends ###
 - [x] The One With Phoebes Dad **(S02 E09)**
 - [x] The One Where Rachel Quits **(S03 E10)**
 - [x] The One With The Holiday Armidillo **(S07 E10)**
