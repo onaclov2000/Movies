@@ -12,7 +12,7 @@ Christmas Movies
 - [x] Eight Crazy Nights
 - [x] Die Hard
 - [ ] A Christmas Story
-- [ ] Nightmare Before Christmas
+- [x] Nightmare Before Christmas
 - [ ] National Lampoons Christmas Vacation
 
 
@@ -47,5 +47,7 @@ Christmas TV Episodes
 
 
 Notes:
+
 [x] means i have it.
+
 [ ] means I don't
